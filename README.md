@@ -1,4 +1,4 @@
-<h1 align="center">🧬 Breast Cancer Classification using Machine Learning</h1>
+<h1 align="center">🧬 Breast Cancer Detection using Machine Learning</h1>
 
 <p align="center">
   A machine learning approach for early detection of breast cancer by classifying tumors as benign or malignant
